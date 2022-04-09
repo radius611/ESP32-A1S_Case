@@ -1,10 +1,13 @@
-# ESP32-A1S Squeezebox Case
-This repo contains the source for the 3D printed ESP32-A1S Squeezebox Case that I designed in Fusion 360. See the SourceFiles folder for several different 3D formats files.
+# ESP32-A1S Case
 
-![Printed case for ESP32-A1S](ExampleUse.jpg)
+# Original Author
+[ESP32-A1S Squeezebox Case](https://github.com/thomaspreece/ESP32-A1S_Squeezebox_Case)
 
-![Rendered image of case](RenderedImages/Squeezebox1.png)
+#Images
+![ESP32-A1S Case (Full)](RenderedImages/Full1.png)
 
-![Rendered image of case](RenderedImages/Squeezebox2.png)
+![ESP32-A1S Case (Full)](RenderedImages/Full2.png)
 
-![Rendered image of case](RenderedImages/Squeezebox3.png)
+![ESP32-A1S Case (Base)](RenderedImages/Base.png)
+
+![ESP32-A1S Case (Lid)](RenderedImages/Lid.png)
