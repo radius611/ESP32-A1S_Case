@@ -6,13 +6,13 @@
 
 # Images
 
-![ESP32-A1S Case (Full)](Images/Rendered_Full1.png)
+![ESP32-A1S Case (Full)](Images/Render_Full1.png)
 
-![ESP32-A1S Case (Full)](Images/Rendered_Full2.png)
+![ESP32-A1S Case (Full)](Images/Render_Full2.png)
 
-![ESP32-A1S Case (Base)](Images/Rendered_Base.png)
+![ESP32-A1S Case (Base)](Images/Render_Base.png)
 
-![ESP32-A1S Case (Lid)](Images/Rendered_Lid.png)
+![ESP32-A1S Case (Lid)](Images/Render_Lid.png)
 
 ![ESP32-A1S Case (Apart)](Images/Printed_Full1.png)
 
